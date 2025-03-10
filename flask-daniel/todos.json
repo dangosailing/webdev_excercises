@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "do laundry",
+        "status": false
+    },
+    {
+        "id": 2,
+        "title": "cancel netflix",
+        "status": false
+    },
+    {
+        "id": 3,
+        "title": "prep lunch",
+        "status": true
+    },
+    {
+        "id": 4,
+        "title": "Fix TsV",
+        "status": false
+    }
+]
